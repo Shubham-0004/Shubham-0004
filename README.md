@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Kumar.
-- 👀 I’m interested in Java Programming.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👀 I’m interested in Software Development and Open-Source contributions.
+- 🌱 I’m currently learning Java Programming and Data Structures and Algorithms.
 - 📫 How to reach ---https://www.linkedin.com/in/shubhamkumar29
 - 😄 Pronouns: He/Him
 
