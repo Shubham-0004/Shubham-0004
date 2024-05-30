@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-0004
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Java Programming.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 How to reach ---https://www.linkedin.com/in/shubhamkumar29
 - 😄 Pronouns: He/Him
 
