@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubham-0004
+- 👋 Hi, I’m Shubham Kumar.
 - 👀 I’m interested in Java Programming.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 How to reach ---https://www.linkedin.com/in/shubhamkumar29
